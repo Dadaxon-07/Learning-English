@@ -1,0 +1,24 @@
+Index: lib/pages/game_page.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/pages/game_page.dart b/lib/pages/game_page.dart
+--- a/lib/pages/game_page.dart	
++++ b/lib/pages/game_page.dart	(date 1721935220109)
+@@ -1,0 +1,1 @@
++
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/main.dart b/lib/main.dart
+--- a/lib/main.dart	
++++ b/lib/main.dart	(date 1721977695944)
+@@ -41,5 +41,3 @@
+     );
+   }
+ }
+-
+-
